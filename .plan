@@ -1,2 +1,4 @@
-* Payments in stripe, some nice subscription stuff
-* Came up with a plan for how to do some good stuff with masquerading
+* Made a Deno version of GitFinger
+* Implemented a good Init flow
+* Started with the implementation of pushing updates
+* Found bug with Deno compile that breaks prompts
