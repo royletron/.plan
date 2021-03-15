@@ -1,4 +1,6 @@
 * Made a Deno version of GitFinger
 * Implemented a good Init flow
 * Started with the implementation of pushing updates
-* Found bug with Deno compile that breaks prompts
+* Found bug with Deno compile that breaks prompt - no binary CLI today 😵
+* Made a Deno.land repo and pushed the first version!
+* Wrote a Readme.MD that I guess a lot of people have come from 🖐
