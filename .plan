@@ -4,3 +4,13 @@
 * Found bug with Deno compile that breaks prompt - no binary CLI today 😵
 * Made a Deno.land repo and pushed the first version!
 * Wrote a Readme.MD that I guess a lot of people have come from 🖐
+
+## TIL
+
+Turns out:
+```
+import dayjs from "https://cdn.skypack.dev/dayjs@1.10.4";
+import relativeTime from "https://cdn.skypack.dev/dayjs@1.10.4/plugin/relativeTime";
+dayjs.extend(relativeTime)
+```
+Works really well in `Deno`. Go `Deno`!!!
